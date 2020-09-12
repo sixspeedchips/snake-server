@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+<?import io.libsoft.view.Arena?>
+<StackPane xmlns:fx="http://javafx.com/fxml"
+  fx:controller="io.libsoft.controller.DrawController">
+  <Arena fx:id="arena"/>
+
+
+</StackPane>
